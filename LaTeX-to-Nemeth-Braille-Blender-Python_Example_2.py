@@ -1,4 +1,4 @@
-
+# Copy the script below and paste it into the Blender Python scripting enviroment, then run the script to generate the Braille dots into 3D objects.
 
 import bpy
 

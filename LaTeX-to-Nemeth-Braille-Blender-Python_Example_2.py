@@ -162,7 +162,7 @@ def main():
         start_y=0.0, 
         start_z=0.0,
         cell_spacing=0.2,      # Horizontal spacing between Braille cells
-        dot_radius=0.02,       # Cylinder radius
+        dot_radius=0.015,       # Cylinder radius
         dot_depth=0.02,        # Cylinder height
         vertical_spacing=0.05, # Vertical spacing between dot rows
         horizontal_spacing=0.05,

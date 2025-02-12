@@ -10,3 +10,7 @@ Generate an SVG output of mathematics and text in Braille format.
 Read more:
 - <https://physicsworld.com/a/physics-in-the-dark/>
 - <https://physicsworld.com/a/doing-physics-by-ear/>
+
+### Below is a screenshot of the raised Braille dots rendered in Blender
+
+![image](https://github.com/user-attachments/assets/8c61c53c-6984-432f-bcad-fa833ffd7a75)

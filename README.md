@@ -49,6 +49,61 @@ Read more:
 
 ---
 
+## 1) Ehrenfest’s theorem — general operator form
+
+**Braille title:** ⠑⠓⠗⠑⠝⠋⠑⠎⠞⠄⠎ ⠞⠓⠑⠕⠗⠑⠍ ⠤⠤ ⠛⠑⠝⠑⠗⠁⠇ ⠕⠏⠻⠁⠞⠕⠗ ⠋⠕⠗⠍
+
+**Nemeth:**
+⠹⠙⠌⠙⠞⠼ ⠨⠨⠷⠁⠨⠨⠾ ⠨⠅ ⠹⠼⠁⠌⠊⠓⠒⠼ ⠨⠨⠷⠈⠷⠁⠂⠓⠈⠾⠨⠨⠾ ⠖ ⠨⠨⠷⠹⠈⠙⠁⠌⠈⠙⠞⠼⠨⠨⠾
+
+> d/dt ⟨A⟩ = (1/(iħ)) ⟨[A,H]⟩ + ⟨∂A/∂t⟩
+
+---
+
+## 2) Classical comparison
+
+**Braille title:** ⠉⠇⠁⠎⠎⠊⠉⠁⠇ ⠉⠕⠍⠏⠁⠗⠊⠎⠕⠝
+
+**Nemeth:**
+⠹⠙⠌⠙⠞⠼ ⠨⠨⠷⠭⠨⠨⠾ ⠨⠅ ⠹⠨⠨⠷⠏⠨⠨⠾⠌⠍⠼⠂ ⠹⠙⠌⠙⠞⠼ ⠨⠨⠷⠏⠨⠨⠾ ⠨⠅ ⠨⠨⠷⠤⠘⠙⠧⠨⠨⠾
+
+> d/dt ⟨x⟩ = ⟨p⟩/m,  d/dt ⟨p⟩ = ⟨−∇V⟩
+
+---
+
+## 3) Time‑independent Schrodinger equation (3D)
+
+**Braille title:** ⠞⠊⠍⠑⠤⠊⠝⠙⠑⠏⠑⠝⠙⠑⠝⠞ ⠎⠉⠓⠗⠕⠙⠊⠝⠛⠻ ⠑⠟⠥⠁⠞⠊⠕⠝
+
+**Nemeth:**
+⠈⠷⠤⠹⠓⠒⠘⠼⠃⠌⠼⠃⠍⠼ ⠘⠙⠘⠼⠃ ⠖ ⠧⠣⠗⠜⠈⠾ ⠨⠽⠣⠗⠜ ⠨⠅ ⠑ ⠨⠽⠣⠗⠜
+
+> [ −(ħ^2)/(2m) ∇^2 + V(r) ] ψ(r) = E ψ(r)
+
+---
+
+## 4) Dirac equation — αβ Hamiltonian (Dirac‑αβ) form
+
+**Braille title:** ⠙⠊⠗⠁⠉ ⠑⠟⠥⠁⠞⠊⠕⠝ ⠤⠤ ⠨⠁⠨⠃ ⠓⠁⠍⠊⠇⠞⠕⠝⠊⠁⠝ ⠋⠕⠗⠍
+
+**Nemeth:**
+⠊⠓⠒ ⠹⠈⠙⠨⠽⠌⠈⠙⠞⠼ ⠨⠅ ⠣ ⠉ ⠨⠁⠡⠏ ⠖ ⠨⠃⠍⠉⠘⠼⠃ ⠜ ⠨⠽
+
+> iħ (∂ψ/∂t) = ( c α·p + β m c^2 ) ψ
+
+---
+
+## 5) Dirac equation — manifestly covariant form
+
+**Braille title:** ⠙⠊⠗⠁⠉ ⠑⠟⠥⠁⠞⠊⠕⠝ ⠤⠤ ⠍⠁⠝⠊⠋⠑⠎⠞⠇⠽ ⠉⠕⠧⠁⠗⠊⠁⠝⠞ ⠋⠕⠗⠍
+
+**Nemeth:**
+⠣ ⠊⠓⠒ ⠨⠛⠘⠨⠍ ⠈⠙⠆⠨⠍ ⠤ ⠍⠉ ⠜ ⠨⠽ ⠨⠅ ⠼⠚
+
+> ( iħ γ^μ ∂_μ − m c ) ψ = 0
+
+---
+
 ### Below is a screenshot of raised Braille dots rendered in Blender
 
 ![image](https://github.com/user-attachments/assets/8c61c53c-6984-432f-bcad-fa833ffd7a75)

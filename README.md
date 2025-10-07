@@ -15,7 +15,7 @@ Read more:
 
 ### English Letters
 
-| # | Equation (LaTeX)                                                                                                                      | Label                                         |
+| # | Equation (LaTeX or MathTex)                                                                                                                      | Label                                         |
 | - | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | 1 | $\frac{d}{dt}\langle A\rangle = \frac{1}{i\hbar}\langle [A,H]\rangle + \left\langle \frac{\partial A}{\partial t}\right\rangle$       | **Heisenberg Equation of Motion** (for expectation values) |
 | 2 | $\frac{d}{dt}\langle x\rangle = \frac{\langle p\rangle}{m},\quad \frac{d}{dt}\langle p\rangle = \left\langle -\nabla V \right\rangle$ | **Ehrenfest's Theorem** |

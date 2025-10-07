@@ -102,6 +102,13 @@ Read more:
 
 > ( iħ γ^μ ∂_μ − m c ) ψ = 0
 
+### Notes
+
+• Angle brackets: ⟨…⟩ are ⠨⠨⠷ … ⠨⠨⠾.  Square brackets: ⟦…⟧ here shown as basic ⠈⠷ … ⠈⠾.  Equals: ⠨⠅ (spaced).  Minus: ⠤.  Plus: ⠖.  Centered dot: ⠡.
+• Greek: α ⟶ ⠨⠁, β ⟶ ⠨⠃, γ ⟶ ⠨⠛, μ ⟶ ⠨⠍, ψ ⟶ ⠨⠽.
+• ∂ is ⠈⠙; ∇ (del) is ⠘⠙; superscripts use ⠘, subscripts use ⠆; overbar (h‑bar) uses the horizontal‑bar sign ⠒ after the base letter.
+• Digits use the numeric indicator ⠼ before the first digit when needed for clarity.
+
 ---
 
 ### Below is a screenshot of raised Braille dots rendered in Blender

@@ -11,6 +11,44 @@ Read more:
 - <https://physicsworld.com/a/physics-in-the-dark/>
 - <https://physicsworld.com/a/doing-physics-by-ear/>
 
-### Below is a screenshot of the raised Braille dots rendered in Blender
+---
+
+### English Letters
+
+| # | Equation (LaTeX)                                                                                                                      | Label                                         |
+| - | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| 1 | $\frac{d}{dt}\langle A\rangle = \frac{1}{i\hbar}\langle [A,H]\rangle + \left\langle \frac{\partial A}{\partial t}\right\rangle$       | **Heisenberg Equation of Motion** (for expectation values) |
+| 2 | $\frac{d}{dt}\langle x\rangle = \frac{\langle p\rangle}{m},\quad \frac{d}{dt}\langle p\rangle = \left\langle -\nabla V \right\rangle$ | **Ehrenfest's Theorem** |
+| 3 | $\left[-\frac{\hbar^2}{2m}\nabla^2 + V(\mathbf{r})\right]\psi(\mathbf{r})=E\,\psi(\mathbf{r})$                                        | **Time-Independent Schrödinger Equation** |
+| 4 | $i\hbar\frac{\partial \psi}{\partial t}=\left(c\,\boldsymbol{\alpha}\cdot\mathbf{p}+\beta\,mc^2\right)\psi$                           | **Dirac Equation** |
+| 5 | $\left(i\hbar\,\gamma^\mu\partial_\mu - mc\right)\psi = 0$                                                                           | **Dirac Equation** (in covariant form)          |
+
+---
+
+### Nemeth Code (for mathematics) and the labels are in Unified English Braille (UEB).
+
+| # | Equation (Unicode Nemeth Braille)<br> | Label (Unicode UEB Braille) <br> |
+| :-- | :--- | :--- |
+| 1 | `⠹⠙⠌⠙⠞⠼⠷⠠⠁⠾⠀⠶⠀⠹⠂⠌⠊⠸⠓⠼⠷⠣⠠⠁⠂⠠⠓⠜⠾⠀⠬⠀⠷⠹⠫⠠⠁⠌⠫⠞⠼⠾` | `⠠⠓⠑⠊⠎⠑⠝⠃⠑⠗⠛⠀⠠⠑⠟⠥⠁⠞⠊⠕⠝⠀⠕⠋⠀⠠⠍⠕⠞⠊⠕⠝` |
+| 2 | `⠹⠙⠌⠙⠞⠼⠷⠭⠾⠀⠶⠀⠹⠷⠏⠾⠌⠍⠼⠂⠀⠹⠙⠌⠙⠞⠼⠷⠏⠾⠀⠶⠀⠷⠤⠫⠢⠠⠧⠾` | `⠠⠑⠓⠗⠑⠝⠋⠑⠎⠞⠴⠎⠀⠠⠞⠓⠑⠕⠗⠑⠍` |
+| 3 | `⠣⠤⠹⠸⠓⠘⠆⠌⠆⠍⠼⠫⠢⠘⠆⠀⠬⠀⠠⠧⠷⠸⠗⠾⠜⠨⠏⠷⠸⠗⠾⠀⠶⠀⠠⠑⠨⠏⠷⠸⠗⠾` | `⠠⠞⠊⠍⠑⠤⠠⠊⠝⠙⠑⠏⠑⠝⠙⠑⠝⠞⠀⠠⠎⠡⠗⠕⠙⠊⠝⠛⠑⠗⠀⠠⠑⠟⠥⠁⠞⠊⠕⠝` |
+| 4 | `⠊⠸⠓⠹⠫⠨⠏⠌⠫⠞⠼⠀⠶⠀⠷⠉⠨⠸⠁⠐⠸⠏⠀⠬⠀⠨⠃⠍⠉⠘⠆⠾⠨⠏` | `⠠⠙⠊⠗⠁⠉⠀⠠⠑⠟⠥⠁⠞⠊⠕⠝` |
+| 5 | `⠷⠊⠸⠓⠨⠛⠘⠨⠍⠐⠫⠨⠨⠍⠐⠀⠤⠀⠍⠉⠾⠨⠏⠀⠶⠀⠴` | `⠠⠙⠊⠗⠁⠉⠀⠠⠑⠟⠥⠁⠞⠊⠕⠝⠀⠷⠠⠉⠕⠧⠁⠗⠊⠁⠝⠞⠀⠠⠋⠕⠗⠍⠾` |
+
+---
+### Full Nemeth Code (for mathematics) and the labels are in Unified English Braille (UEB).
+
+|  |  |  |
+| :-- | :--- | :--- |
+|   | ⠠⠑⠟⠥⠁⠞⠊⠕⠝⠀⠷⠠⠥⠝⠊⠉⠕⠙⠑⠀⠠⠝⠑⠍⠑⠞⠓⠀⠠⠃⠗⠁⠊⠇⠇⠑⠾ | ⠠⠇⠁⠃⠑⠇⠀⠷⠠⠥⠝⠊⠉⠕⠙⠑⠀⠠⠥⠠⠑⠠⠃⠀⠠⠃⠗⠁⠊⠇⠇⠑⠾ |
+| ⠼⠂ | `⠹⠙⠌⠙⠞⠼⠷⠠⠁⠾⠀⠶⠀⠹⠂⠌⠊⠸⠓⠼⠷⠣⠠⠁⠂⠠⠓⠜⠾⠀⠬⠀⠷⠹⠫⠠⠁⠌⠫⠞⠼⠾` | `⠠⠓⠑⠊⠎⠑⠝⠃⠑⠗⠛⠀⠠⠑⠟⠥⠁⠞⠊⠕⠝⠀⠕⠋⠀⠠⠍⠕⠞⠊⠕⠝` |
+| ⠼⠆ | `⠹⠙⠌⠙⠞⠼⠷⠭⠾⠀⠶⠀⠹⠷⠏⠾⠌⠍⠼⠂⠀⠹⠙⠌⠙⠞⠼⠷⠏⠾⠀⠶⠀⠷⠤⠫⠢⠠⠧⠾` | `⠠⠑⠓⠗⠑⠝⠋⠑⠎⠞⠴⠎⠀⠠⠞⠓⠑⠕⠗⠑⠍` |
+| ⠼⠒ | `⠣⠤⠹⠸⠓⠘⠆⠌⠆⠍⠼⠫⠢⠘⠆⠀⠬⠀⠠⠧⠷⠸⠗⠾⠜⠨⠏⠷⠸⠗⠾⠀⠶⠀⠠⠑⠨⠏⠷⠸⠗⠾` | `⠠⠞⠊⠍⠑⠤⠠⠊⠝⠙⠑⠏⠑⠝⠙⠑⠝⠞⠀⠠⠎⠡⠗⠕⠙⠊⠝⠛⠑⠗⠀⠠⠑⠟⠥⠁⠞⠊⠕⠝` |
+| ⠼⠲ | `⠊⠸⠓⠹⠫⠨⠏⠌⠫⠞⠼⠀⠶⠀⠷⠉⠨⠸⠁⠐⠸⠏⠀⠬⠀⠨⠃⠍⠉⠘⠆⠾⠨⠏` | `⠠⠙⠊⠗⠁⠉⠀⠠⠑⠟⠥⠁⠞⠊⠕⠝` |
+| ⠼⠢ | `⠷⠊⠸⠓⠨⠛⠘⠨⠍⠐⠫⠨⠨⠍⠐⠀⠤⠀⠍⠉⠾⠨⠏⠀⠶⠀⠴` | `⠠⠙⠊⠗⠁⠉⠀⠠⠑⠟⠥⠁⠞⠊⠕⠝⠀⠷⠠⠉⠕⠧⠁⠗⠊⠁⠝⠞⠀⠠⠋⠕⠗⠍⠾` |
+
+---
+
+### Below is a screenshot of raised Braille dots rendered in Blender
 
 ![image](https://github.com/user-attachments/assets/8c61c53c-6984-432f-bcad-fa833ffd7a75)

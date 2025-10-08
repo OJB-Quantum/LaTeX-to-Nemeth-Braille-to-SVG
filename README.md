@@ -117,3 +117,6 @@ Read more:
 ### Below is a screenshot of raised Braille dots rendered in Blender
 
 ![image](https://github.com/user-attachments/assets/8c61c53c-6984-432f-bcad-fa833ffd7a75)
+
+<img width="3175" height="auto" alt="image" src="https://github.com/user-attachments/assets/8fb576da-9824-43ac-bc26-b2106eaa486c" />
+
